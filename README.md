@@ -2,15 +2,15 @@
 
 ![Screenshot from 2025-05-21 21-07-42](https://github.com/user-attachments/assets/2a8280ae-99c9-45dd-8346-418c7332bc7a)
 
-
-![Screenshot from 2025-05-21 21-08-15](https://github.com/user-attachments/assets/100f59fa-fe18-414e-bfd6-9d5966dba14f)
-
+![Screenshot from 2025-05-21 21-08-01](https://github.com/user-attachments/assets/c38dadac-51ca-45b1-9e1c-11c97b6b10e1)
 
 
-![Screenshot from 2025-05-21 21-08-08](https://github.com/user-attachments/assets/1877fb61-9bbb-43c4-bd1f-d7ceec09f78b)
+![Screenshot from 2025-05-21 21-08-08](https://github.com/user-attachments/assets/e4dcde81-e62d-4d83-b31e-4bf1d3bef627)
 
 
-![Screenshot from 2025-05-21 21-08-15](https://github.com/user-attachments/assets/32e95b00-d521-4028-9822-d6f6a8ab6adb)
+![Screenshot from 2025-05-21 21-08-15](https://github.com/user-attachments/assets/3b4bc994-7746-488c-aad2-5bdd90650e1d)
+
+
 
 ⚡ Next.js Storage App
 
