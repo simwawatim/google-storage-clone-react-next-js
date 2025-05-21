@@ -31,4 +31,79 @@ First, clone the repository and install dependencies:
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+
+🔐 Pages Overview
+/login – Sign in to your account
+
+/register – Create a new account
+
+/ – Home/dashboard screen
+
+/profile – View/edit user profile
+
+/settings – Update password, API keys, etc.
+
+📡 Public Developer API – Use Our Storage System
+This project includes a RESTful API that allows other developers to securely store and manage their files.
+
+🛠️ API Features
+Upload and retrieve:
+
+📄 PDFs, DOCX, Excel
+
+🎵 MP3, WAV
+
+🎥 MP4, WebM
+
+Access files via unique URLs
+
+Generate and manage API Keys
+
+Secure endpoints with authentication
+
+JSON-based responses
+
+🔑 Example Endpoints (coming soon)
+POST /api/upload – Upload a file
+
+GET /api/files – List stored files
+
+DELETE /api/files/:id – Delete a file
+
+GET /api/files/:id – Get file metadata or stream file
+
+📘 Full API documentation will be available soon
+
+🛠 Tech Stack
+🧠 Next.js (App Router)
+
+⚛️ React + TypeScript
+
+💨 Tailwind CSS
+
+🔐 Authentication (custom or Firebase/Supabase)
+
+☁️ Backend-ready for cloud storage (S3, Supabase, etc.)
+
+
+🧪 Customization Ideas
+🌙 Dark mode toggle
+
+📊 File usage statistics
+
+🔒 OAuth login (Google, GitHub)
+
+☁️ Cloud storage integration (AWS S3, Supabase Storage)
+
+
+
+📬 Feedback & Contributions
+Pull requests and feedback are welcome!
+Let’s build something awesome together. 😎
+
+🧾 License
+MIT License — free for personal or commercial use.
+
+
+Made with ❤️ using Next.js and Tailwind CSS.
 npm install
